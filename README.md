@@ -51,4 +51,4 @@ after that visit http://localhost:3000 and you will see a message saying "Hello 
 
 ## Lessons
 ### Lessons-1: Run node.js script, simple console.log
-### Lessons-2: Javascript global, require module, core modules (os, fs etc.), streams & buffers
+### Lessons-2: Javascript global, import and exports modules, core modules (os, fs etc.), streams & buffers

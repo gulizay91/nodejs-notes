@@ -9,7 +9,7 @@ console.log(marvelCharacters);
 console.log(dcCharacters);
 
 
-const operationalSystem = require('os');
-//console.log(operationalSystem);
-console.log(operationalSystem.platform(), operationalSystem.homedir());
+const operatingSystem = require('os');
+//console.log(operatingSystem);
+console.log(operatingSystem.platform(), operatingSystem.homedir());
 
